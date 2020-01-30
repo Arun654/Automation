@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19366" started-at="2020-01-24T16:39:31 IST" finished-at="2020-01-24T16:39:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19366" started-at="2020-01-24T16:39:31 IST" finished-at="2020-01-24T16:39:51 IST">
+      <class name="com.actiTime.testscripts.Createproject">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actiTime.testscripts.Createproject@2286778]" name="login" is-config="true" duration-ms="510" started-at="2020-01-24T16:39:45 IST" finished-at="2020-01-24T16:39:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="newproject()[pri:0, instance:com.actiTime.testscripts.Createproject@2286778]" name="newproject" duration-ms="4605" started-at="2020-01-24T16:39:45 IST" finished-at="2020-01-24T16:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newproject -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actiTime.testscripts.Createproject@2286778]" name="logout" is-config="true" duration-ms="658" started-at="2020-01-24T16:39:50 IST" finished-at="2020-01-24T16:39:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.actiTime.testscripts.Createproject -->
+      <class name="com.actiTime.testscripts.Createcustomer">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.actiTime.testscripts.Createcustomer@5abca1e0]" name="openbrowser" is-config="true" duration-ms="5969" started-at="2020-01-24T16:39:31 IST" finished-at="2020-01-24T16:39:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actiTime.testscripts.Createcustomer@5abca1e0]" name="login" is-config="true" duration-ms="625" started-at="2020-01-24T16:39:37 IST" finished-at="2020-01-24T16:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Addnewcustomer()[pri:0, instance:com.actiTime.testscripts.Createcustomer@5abca1e0]" name="Addnewcustomer" duration-ms="6286" started-at="2020-01-24T16:39:38 IST" finished-at="2020-01-24T16:39:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addnewcustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actiTime.testscripts.Createcustomer@5abca1e0]" name="logout" is-config="true" duration-ms="467" started-at="2020-01-24T16:39:44 IST" finished-at="2020-01-24T16:39:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.actiTime.testscripts.Createcustomer@5abca1e0]" name="closebrowser" is-config="true" duration-ms="118" started-at="2020-01-24T16:39:51 IST" finished-at="2020-01-24T16:39:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.actiTime.testscripts.Createcustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
